@@ -41,3 +41,11 @@ Pour un $PSF = 1$ un arbre prend $3$ mois pour absorber $11.66 \text{ kg}$.
 
 Pour un $PSF = 11$ un arbre prendra $3 \text{ mois} \times 11 = 33 \text{ mois}$ pour absorber $128.26 \text{ kg}$ de $CO_2$.
 
+## 1.2 IA : Traitement Automatique de Langues (TAL) L’algorithme BERT (Bidirectionnal Encoder Representations from Transformers) est leader du domaine. D’après certaines études, l’entraînement de BERT demande 79 h sur 64 GPUs Tesla V100, avec un facteur d’usage de 62,7% des GPUs.
+### 1. Calculer son empreinte carbone.
+
+204.61 kgCO2e
+
+### 2. La recherche des hyperparamètres est particulièrement longue et coûteuse. Calculer à nouveau l’empreinte carbone avec un PSF de 100
+
+13.12 TCO2e
